@@ -1,4 +1,4 @@
 benbarth.github.io
 ==================
 
-My GitHub Pages
+http://benbarth.github.io/
